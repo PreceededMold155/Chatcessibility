@@ -1,0 +1,2 @@
+# Chatcessibility
+This project is licensed under GNU General Public License. Please read the license carefully as it states what you(the end user) can and cannot do with the code. This plugin was inspired by AutCraft. A servert that suits the needs of those with Autism and other diagnosises similar to Autism. It is designed to provide Better Accessbility to servers that require extra Accessibility layers
