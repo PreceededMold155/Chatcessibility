@@ -1,0 +1,7 @@
+name: Chatcessibility
+version: ${project.version}
+main: chatcessibility.chatcessibility.Chatcessibility
+api-version: 1.17
+authors: [ PreceededMold155 ]
+description: Chatcessibility is a PaperMC plugin specifically made for AutCraft. This project can be found on GitHub
+website: https://github.com/PreceededMold155/Chatcessibility
